@@ -1,2 +1,5 @@
 # Sistema-de-Gestao-de-Notas
-Simples sistema de gestão de notas feito em Python e foi desenvolvido por mim mesmo para um portfólio da faculdade de Análise e Desenvolvimento de Sistemas
+
+🇺🇸: Simple grade management system made in Python and was developed by myself for a Systems Analysis and Development university project
+
+🇧🇷: Simples sistema de gestão de notas feito em Python e foi desenvolvido por mim mesmo para um portfólio da faculdade de Análise e Desenvolvimento de Sistemas
